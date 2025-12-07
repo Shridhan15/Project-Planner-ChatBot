@@ -8,3 +8,4 @@ sentence-transformers
 faiss-cpu
 python-dotenv
 groq
+uvicorn==0.29.0
