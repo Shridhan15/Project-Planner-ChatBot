@@ -4,7 +4,7 @@ Join requests allow users to request membership in a project.
 
 ---
 
-## Sending a Join Project Request
+## Sending a Join Request
 Logged-in users can click **"Request to Join"** on any project card.
 
 After sending the request:
@@ -13,7 +13,7 @@ After sending the request:
 
 ---
 
-## Receiving Join Project Requests (Project Authors Only)
+## Receiving Join Requests (Project Authors Only)
 Project authors receive notifications under the Bell icon.
 
 Each notification includes:
@@ -23,7 +23,7 @@ Each notification includes:
 
 ---
 
-## Handling Project Requests
+## Handling Requests
 - **Accept** → The requester becomes part of the team.
 - **Reject** → The requester is informed via a notification.
 

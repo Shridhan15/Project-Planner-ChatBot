@@ -1,11 +1,10 @@
-fastapi==0.110.0
-uvicorn==0.29.0
+fastapi
+uvicorn
 langchain
 langchain-community
+langchain-core
 langchain-huggingface
 langchain-groq
-sentence-transformers
 faiss-cpu
+sentence-transformers
 python-dotenv
-groq
-uvicorn==0.29.0
